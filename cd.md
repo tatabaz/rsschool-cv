@@ -28,7 +28,8 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 * Git, GitHub, VS Code 
 
 ## Code Sample  
-<head>
+
+    <head>
     <meta charset="UTF-8">
     <title>Code Sample</title>
     </head>
